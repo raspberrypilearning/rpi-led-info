@@ -1,25 +1,11 @@
-## Introduction
+This image below shows a very simple circuit. There are four components, all connected up with wires.
 
-Add project description here. What will learners be making?
+1) The cell provides energy to the circuit in the form of electricity. A cell has a positive and a negative side. Electric current flows from the positive side of the cell to the negative side of the cell.
 
-### What you will make
+2) The Light Emitting Diode (LED) is a type of Output Component. When current flows through the LED, it emits light. Different LEDs can produce many different colours of light, and some can even produce multiple colours.
 
-Add something here to showcase here, for example:
+3) The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse does in many of your household appliances.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+4) The switch acts as a break in the circuit. When the switch is open then no current can flow through the LED or the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+![Simple Circuit](images/simple-circuit.png)
