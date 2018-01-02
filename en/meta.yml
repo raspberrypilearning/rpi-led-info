@@ -1,6 +1,6 @@
-title: LED Circuit Information
+title: LED circuit information
 hero_image: images/banner.png
-description: rpi-led-info description
+description: The components of a simple circuit, and what they do
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: false
@@ -11,4 +11,4 @@ interests:
 technologies:
 site_areas:
 steps:
-  - title: LED Circuit Information
+  - title: LED circuit information
