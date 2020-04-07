@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+밑에 있는 그림은 매우 간단한 회로입니다. 전선으로 연결된 4개의 구성요소로 이루어져 있습니다.
 
-![Simple Circuit](images/simple-circuit.png)
+![간단한 회로](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. 건전지(혹은 배터리)는 전기의 형태로 회로에 에너지를 공급합니다. 건전지는 음극과 양극을 가지고 있습니다. 전기 에너지 (혹은 전류)는 건전지의 양극에서 음극으로 흐릅니다. 건전지를 사용하는 대신 라즈베리파이를 이용해 이 회로에 에너지를 공급할 수도 있습니다.
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. 발광 다이오드(LED)는 출력 구성요소입니다. 전류가 LED를 통해 흐르면 LED는 빛을 냅니다. 서로 다른 LED들은 다른 색의 빛을 낼 수 있고, 심지어 어떤 LED들은 여러가지 색을 낼 수 있습니다.
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. 저항을 LED를 보호하는 역할을 합니다. 저항은 건전지에서 나오는 에너지의 일부를 사용해 LED로 가는 에너지의 양을 줄입니다. 저항이 없으면 LED가 타버릴 수도 있습니다, 같은 이유로 가전제품의 퓨즈가 나갈 수도 있습니다.
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. 스위치는 회로를 열고 닫는 역할을 합니다. 스위치가 열리면, LED와 저항에 전류가 흐를 수 없습니다. 스위치가 닫히면 회로가 완성돼 전류가 흐르게 되어 LED가 켜지게 됩니다.
