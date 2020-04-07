@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+De onderstaande afbeelding toont een heel eenvoudig circuit. Er zijn vier componenten, allemaal verbonden met draden.
 
-![Simple Circuit](images/simple-circuit.png)
+![Eenvoudig circuit](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. De cel (of batterij) voorziet het circuit van energie in de vorm van elektriciteit. Een batterij heeft een positieve en een negatieve kant. Elektrische energie (of stroom) stroomt van de positieve kant naar de negatieve kant van de batterij. In plaats van een batterij te gebruiken, zou je dit circuit ook van energie kunnen voorzien met een Raspberry Pi!
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. De **l**ight-**e**mitting **d**iode (LED) is een soort uitvoercomponent. Wanneer er stroom door de LED stroomt, straalt deze licht uit. Verschillende LED's kunnen verschillende kleuren weergeven en sommige kunnen zelfs meerdere kleuren weergeven.
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. De weerstand helpt de LED te beschermen. Weerstanden verbruiken een deel van de energie uit de batterij en verminderen daardoor de hoeveelheid energie die de LED bereikt. Zonder weerstand kan de LED doorbranden, net zoals een zekering in een van jouw huishoudelijke apparaten kan doorbranden.
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. De schakelaar werkt als een onderbreking in het circuit. Als de schakelaar open is, kan er geen stroom door de LED en de weerstand stromen. Als de schakelaar gesloten is, is het circuit gesloten en kan er stroom vloeien, waardoor de LED gaat branden.
