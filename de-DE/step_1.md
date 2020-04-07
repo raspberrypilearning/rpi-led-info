@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+Das Bild unten zeigt eine sehr einfache Schaltung. Es gibt vier Komponenten, die alle mit Drähten verbunden sind.
 
-![Simple Circuit](images/simple-circuit.png)
+![Einfache Schaltung](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. Die Stromquelle (oder Batterie) versorgt den Stromkreis mit Energie in Form von Elektrizität. Eine Batterie hat eine positive und eine negative Seite. Elektrische Energie (oder Strom) fließt von der positiven Seite zur negativen Seite der Zelle. Anstatt eine Batterie zu verwenden, kannst du diese Schaltung auch mit einem laufenden Raspberry Pi mit Energie versorgen!
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. Die **l**ight- **E**mitting **D **iode (LED, Leuchtdiode) ist eine Art Ausgangskomponente. Wenn Strom durch die LED fließt, gibt sie Licht ab. Verschiedene LEDs können unterschiedliche Lichtfarben erzeugen, und einige können sogar mehrere Farben erzeugen.
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. Der Widerstand schützt die LED. Widerstände verbrauchen einen Teil der Energie aus der Batterie und reduzieren daher die Energiemenge, die die LED erreicht. Ohne den Widerstand könnte die LED durchbrennen, ähnlich wie eine Sicherung in einem deiner Haushaltsgeräte durchbrennen kann.
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. Der Schalter dient zur Unterbrechung des Stromkreises. Wenn der Schalter geöffnet ist, kann kein Strom durch die LED und den Widerstand fließen. Wenn der Schalter geschlossen ist, ist der Stromkreis geschlossen und es kann Strom fließen, wodurch die LED aufleuchtet.
