@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+L'immagine sottostante mostra un circuito molto semplice. Ci sono quattro componenti, collegati tra loro da cavi elettrici.
 
-![Simple Circuit](images/simple-circuit.png)
+![Circuito semplice](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. La pila (o batteria, cella) fornisce energia al circuito sotto forma di elettricità. Le pile hanno un polo positivo e uno negativo. L'energia elettrica (o corrente) scorre dal polo positivo a quello negativo della pila. Invece di usare una pila, potresti anche fornire energia a questo circuito con un Raspberry Pi in funzione!
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. Il **L**ight-**e**mitting **d**iode (LED, diodo a emissione di luce) è un tipo di componente di uscita. Quando la corrente lo attraversa, il LED emette luce. LED diversi possono produrre luce di diversi colori e alcuni possono persino produrre più colori.
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. Il resistore aiuta a proteggere il LED. I resistori (impropriamente detti anche "resistenze") consumano parte dell'energia dalla pila e quindi riducono la quantità di energia che raggiunge il LED. Senza il resistore, il LED potrebbe bruciarsi, proprio come un fusibile può bruciarsi in uno dei tuoi elettrodomestici.
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. L'interruttore funge da interruzione nel circuito. Quando l'interruttore è aperto, nessuna corrente può fluire attraverso il LED e la resistenza. Quando l'interruttore è chiuso, il circuito è completo e la corrente può fluire, provocando l'accensione del LED.
