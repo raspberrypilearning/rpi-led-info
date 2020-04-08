@@ -1,0 +1,15 @@
+---
+title: Informazioni sul circuito LED
+hero_image: images/banner.png
+description: Le componenti di un semplice circuito e la loro funzione
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2 #possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+curriculum:
+interests:
+technologies:
+site_areas:
+steps:
+  - title: Informazioni sul circuito LED
