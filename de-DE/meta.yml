@@ -1,0 +1,15 @@
+---
+title: Informationen zur LED-Schaltung
+hero_image: images/banner.png
+description: Die Komponenten einer einfachen Schaltung und was sie tun
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2 #possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+curriculum:
+interests:
+technologies:
+site_areas:
+steps:
+  - title: Informationen zur LED-Schaltung
