@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+Η παρακάτω εικόνα δείχνει ένα πολύ απλό κύκλωμα. Υπάρχουν τέσσερα στοιχεία, όλα συνδεδεμένα με καλώδια.
 
-![Simple Circuit](images/simple-circuit.png)
+![Απλό Κύκλωμα](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. Η ηλεκτρική στήλη (ή μπαταρία) παρέχει στο κύκλωμα ενέργεια με τη μορφή ηλεκτρικής ενέργειας. Μία μπαταρία έχει θετική και αρνητική πλευρά. Η ηλεκτρική ενέργεια (ή το ρεύμα) ρέει από τη θετική πλευρά στην αρνητική πλευρά της μπαταρίας. Αντί να χρησιμοποιήσεις μια μπαταρία, θα μπορούσες επίσης να τροφοδοτήσεις αυτό το κύκλωμα με ένα Raspberry Pi που λειτουργεί!
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. Η λυχνία LED (**l**ight-**e**mitting **d**iode ή δίοδος εκπομπής φωτός) είναι ένα στοιχείο εξόδου. Όταν το ρεύμα ρέει μέσω της LED, αυτή εκπέμπει φως. Διαφορετικές λυχνίες LED μπορούν να παράγουν διαφορετικά χρώματα φωτός, ενώ μερικές μπορούν να παράγουν και πολλά χρώματα.
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. Η αντίσταση βοηθά στην προστασία της LED. Οι αντιστάσεις καταναλώνουν μέρος της ενέργειας από τη μπαταρία και επομένως μειώνουν την ποσότητα ενέργειας που φτάνει στη LED. Χωρίς την αντίσταση, η LED θα μπορούσε να καεί, με τον ίδιο τρόπο που μια ασφάλεια μπορεί να καεί σε μία από τις οικιακές σας συσκευές.
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. Ο διακόπτης λειτουργεί ως διακοπή στο κύκλωμα. Όταν ο διακόπτης είναι ανοιχτός, δεν μπορεί να ρέει ρεύμα μέσω της LED και της αντίστασης. Όταν ο διακόπτης είναι κλειστός, το κύκλωμα είναι ολοκληρωμένο και το ρεύμα μπορεί να ρέει, προκαλώντας την ενεργοποίηση της λυχνίας LED.
