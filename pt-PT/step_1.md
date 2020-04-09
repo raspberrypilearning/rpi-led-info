@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+A imagem em baixo mostra um circuito muito simples. Existem quatro componentes, todos ligados com fios.
 
-![Simple Circuit](images/simple-circuit.png)
+![Circuito Simples](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. A célula (ou bateria) fornece energia ao circuito na forma de eletricidade. Uma célula tem um lado positivo e um negativo. A energia elétrica (ou corrente) flui do lado positivo para o lado negativo da célula. Em vez de usar uma célula, também podes fornecer energia a este circuito com um Raspberry Pi em execução!
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. O ** l ** ight- ** e ** ** d ** O iodo (LED - Diodo emissor de Luz) é um tipo de componente de saída. Quando a corrente flui através do LED, ele emite luz. Diferentes LEDs podem produzir diferentes cores de luz, e alguns podem até produzir várias cores.
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. A resistência ajuda a proteger o LED. As resistências consomem parte da energia da célula e, portanto, reduzem a quantidade de energia que chega ao LED. Sem a resistência, o LED pode queimar, da mesma maneira que um fusível pode queimar num dos teus eletrodomésticos.
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. O interruptor atua como uma interrupção no circuito. Quando o interruptor está aberto, nenhuma corrente pode fluir através do LED e da resistência. Quando o interruptor está fechado, o circuito está completo e a corrente pode fluir, fazendo com que o LED acenda.
