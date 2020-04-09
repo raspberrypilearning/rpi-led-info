@@ -1,0 +1,15 @@
+---
+title: Πληροφορίες κυκλώματος LED
+hero_image: images/banner.png
+description: Τα στοιχεία ενός απλού κυκλώματος και τι κάνουν
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2 #possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+curriculum:
+interests:
+technologies:
+site_areas:
+steps:
+  - title: Πληροφορίες κυκλώματος LED
