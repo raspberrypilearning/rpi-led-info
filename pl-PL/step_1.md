@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+Poniższy obraz przedstawia bardzo prosty obwód elektryczny. Składa się z czterech komponentów, wszystkich połączonych przewodami.
 
-![Simple Circuit](images/simple-circuit.png)
+![Prosty obwód](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. Ogniwo (lub bateria) dostarcza obwódowi energię w postaci elektryczności. Ogniwo ma stronę dodatnią i ujemną. Energia elektryczna (lub prąd) przepływa od strony dodatniej do ujemnej strony ogniwa. Zamiast korzystać z ogniwa, możesz również dostarczyć energię do tego obwodu za pomocą działającego Raspberry Pi!
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. Dioda elektroluminescencyjna, zwana potocznie diodą LED (z ang. **L**ight-**E**mitting **D** iode) jest rodzajem odbiornika energii. Kiedy prąd przepływa przez diodę LED, emituje ona światło. Różne diody LED mogą wytwarzać różne kolory światła, a niektóre mogą nawet wytwarzać wiele kolorów.
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. Rezystor (zwany również opornikiem) pomaga chronić diodę LED. Rezystory zużywają część energii z ogniwa, a tym samym zmniejszają ilość energii docierającej do diody LED. Bez rezystora dioda LED mogłaby się przepalić, podobnie jak bezpiecznik w jednym z urządzeń gospodarstwa domowego.
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. Przełącznik działa jak przerwa w obwodzie. Gdy przełącznik jest otwarty, prąd nie przepływa przez diodę LED i rezystor. Gdy przełącznik jest zamknięty, obwód jest zamknięty i może płynąć prąd, powodując włączenie diody LED.
