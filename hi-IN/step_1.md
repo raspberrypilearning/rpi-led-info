@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+नीचे दी गई छवि एक बहुत ही आसान सर्किट (circuit) दिखाती है। चार पुर्ज़े हैं, सभी वायर के साथ जुड़े हुए हैं।
 
-![Simple Circuit](images/simple-circuit.png)
+![सरल सर्किट](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. सेल (या बैटरी) सर्किट को बिजली के रूप में ऊर्जा प्रदान करता है। सेल (cell) का एक पॉजिटिव (positive) और एक नेगेटिव (negative) बाजू होता है। विद्युत ऊर्जा (या करंट) पॉजिटिव बाजू से सेल के नेगेटिव बाजू तक बहती है। एक सेल का उपयोग करने के बजाय, आप एक चालू Raspberry Pi से इस सर्किट को ऊर्जा प्रदान कर सकते हैं!
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. **l**ight-**e**mitting **d**iode (LED) एक प्रकार का आउटपुट पुर्ज़ा है। जब LED के माध्यम से करंट बेहता है, तब LED प्रकाशित होता है। विभिन्न LED विभिन्न रंगों का उत्पादन कर सकते हैं, और कुछ LED कई रंगों का उत्पादन कर सकते हैं।
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. रेसिस्टर (resistor) LED की सुरक्षा में मदद करता है। रेसिस्टर सेल से कुछ ऊर्जा का उपयोग करते हैं, और इसलिए LED तक पहुंचने वाली ऊर्जा की मात्रा को कम करते हैं। रेसिस्टर के बिना, LED जल सकता है, उसी तरह जिस तरीके से एक फ्यूज आपके घरेलू उपकरणों में जल सकता है।
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. स्विच (switch) सर्किट में एक विराम के रूप में कार्य करता है। जब स्विच खुला होता है, तब करंट का प्रवाह LED और रेसिस्टर के माध्यम से नहीं हो सकता है। जब स्विच बंद हो जाता है, तो सर्किट पूरा हो जाता है और करंट प्रवाहित हो सकता है, जिससे LED चालू हो सकती है।
