@@ -1,8 +1,8 @@
 ---
-title: Informação do circuito de um LED
+title: Informação do circuito de LED
 hero_image: images/banner.png
 description: Os componentes de um circuito simples e o que eles fazem
-theme: vermelho #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies:
 site_areas:
 steps:
   - 
-    title: Informação do circuito de um LED
+    title: Informação do circuito de LED
