@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+توضح الصورة أدناه دائرة بسيطة للغاية. هناك أربعة مكونات، متصلة جميعاً بأسلاك.
 
-![Simple Circuit](images/simple-circuit.png)
+![دارة بسيطة](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. توفر الخلية (أو البطارية) الطاقة للدائرة على شكل كهرباء. للخلية جهة موجبة وسالبة. تتدفق الطاقة الكهربائية (أو التيار) من الجانب الموجب إلى الجانب السالب للخلية. بدلاً من استخدام خلية، يمكنك أيضًا توفير الطاقة لهذه الدائرة باستخدام Raspberry Pi مشتغل!
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. المصباح ومختصره باللغة الانكليزية **l**ight-**e**mitting **d**iode (LED) هو نوع من مكونات الاخراج. عندما يتدفق التيار عبر LED، ينبعث الضوء. يمكن لمصابيح LED المختلفة إنتاج ألوان مختلفة من الضوء ، ويمكن لبعضها أيضًا إنتاج ألوان متعددة.
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. تساعد المقاوم على حماية LED. تستهلك المقاومة بعضًا من الطاقة من الخلية، وبالتالي تقلل من كمية الطاقة التي تصل إلى LED. بدون المقاومة، يمكن أن يحترق الضوء LED، بنفس الطريقة التي يمكن أن يحترق بها الفاصل في أحد أجهزتك المنزلية.
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. يعمل المفتاح كفاصل في الدائرة. عندما يكون المفتاح مفتوحًا ، لا يمكن أن يتدفق أي تيار من خلال LED والمقاومة. عند إغلاق المفتاح ، تكتمل الدائرة ويمكن أن يتدفق التيار ، مما يتسبب في تشغيل LED.
