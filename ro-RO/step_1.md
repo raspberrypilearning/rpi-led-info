@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+Imaginea de mai jos arată un circuit foarte simplu. Există patru componente, toate conectate cu fire.
 
-![Simple Circuit](images/simple-circuit.png)
+![Circuit simplu](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. Celula (sau bateria) furnizează circuitului energie sub formă de electricitate. O celulă are un pol pozitiv și unul negativ. Energia electrică (sau curentul) curge de la polul pozitiv la polul negativ al celulei. În loc să utilizezi o celulă, ai putea furniza energie acestui circuit cu un Raspberry Pi în funcțiune!
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. Dioda emițătoare de lumină (Light-Emitting Diode - LED) este un tip de componentă de ieșire. Când curentul curge prin LED, emite lumină. LED-uri diferite pot produce lumină de diferite culori, iar unele pot produce chiar culori multiple.
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. Rezistorul ajută la protejarea LED-ului. Rezistorile consumă o parte din energia din celulă și, prin urmare, reduc cantitatea de energie care ajunge la LED. Fără rezistor, LED-ul ar putea să se ardă, în același mod în care se poate arde o siguranță într-unul din aparatele de uz casnic.
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. Comutatorul acționează ca un întrerupător în circuit. Când întrerupătorul este deschis, nu poate circula curent prin LED și rezistor. Când întrerupătorul este închis, circuitul este complet și curentul poate curge, determinând aprinderea LED-ului.
