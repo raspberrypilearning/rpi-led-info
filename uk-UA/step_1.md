@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+Нижченаведене зображення показує дуже просте електричне коло. В ньому є чотири компоненти, з’єднані проводами.
 
-![Simple Circuit](images/simple-circuit.png)
+![Просте електричне коло](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. Елемент живлення (або батарея) постачає енергію в коло у формі електрики. Батарея має позитивну та негативну сторони. Електрична енергія (або струм) протікає від позитивної до негативної сторони батареї. Замість використання батареї ти можеш забезпечити це коло енергією від запущеного Raspberry Pi!
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. Світлодіод (**l**ight-**e**mitting **d**iode або LED) — один із типів компонентів виводу. Коли струм протікає через світлодіод, він випромінює світло. Різні світлодіоди можуть давати різні кольори світла, а деякі навіть можуть створювати декілька кольорів.
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. Резистор допомагає захистити світлодіод. Резистори витрачають деяку кількість енергії із батареї і таким чином зменшують кількість енергії, яка досягає світлодіода. Без резистора світлодіод міг би згоріти так само, як може згоріти запобіжник в якомусь із твоїх побутових приладів.
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. Вимикач діє як розрив у колі. Коли вимикач розімкнуто, струм не протікає через світлодіод та резистор. Коли вимикач замкнуто, електричне коло є замкненим, і струм може в ньому протікати, спричиняючи вмикання світлодіода.
