@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+以下圖片顯示簡易的電路模型。 此模型包含了四個連接線路的零件。
 
-![Simple Circuit](images/simple-circuit.png)
+![簡易電路](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. 電池組(電池)為電路提供電能。 電池有分正負極。 電能(電流)走向為從正極端點到負極端點。 除了使用電池外，您也可使用Raspberry Pi來為您的電路提供電能。
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. ** l ** ight- ** e **mitting** d **iode（LED）是一種輸出能量的組件。 當電流通過LED燈時，它會發亮。 不同的LED燈會顯示不同的顏色，有些LED甚至同時有多種色彩。
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. 電組器的功能在於保護LED燈。 電組器使用電池部分的電能，因此可以避免過多的電能一下子流過LED燈。 如果沒有電阻器，LED可能會燒壞，就像家裡電器的保險絲會燒斷以防止電器燒毀。
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. 電流開關可以控制電路。 當電流開關為開啟時，沒有電流可以通過LED燈以及電阻。 而當電流開關為關閉時，電路會接上，電流會因此通過LED燈，使其發亮。
