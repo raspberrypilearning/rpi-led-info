@@ -1,11 +1,11 @@
-The image below shows a very simple circuit. There are four components, all connected up with wires.
+下の図はとても単純な回路です。 4つの部品があり、すべて電線で接続されています。
 
-![Simple Circuit](images/simple-circuit.png)
+![単純な回路](images/simple-circuit.png)
 
-1. The cell (or battery) provides the circuit with energy in the form of electricity. A cell has a positive and a negative side. Electrical energy (or current) flows from the positive side to the negative side of the cell. Instead of using a cell, you could also provide energy to this circuit with a running Raspberry Pi!
+1. 電池（またはバッテリー）は、電気の形でエネルギーを回路に供給します。 電池にはプラス側とマイナス側があります。 電気エネルギー（または電流）は、電池のプラス側からマイナス側に流れます。 電池を使う代わりに、動作しているRaspberry Piからもこの回路にエネルギーを供給することができます！
 
-1. The **l**ight-**e**mitting **d**iode (LED) is a type of output component. When current flows through the LED, it emits light. Different LEDs can produce different colours of light, and some can even produce multiple colours.
+1. ** l ** ight- ** e **mitting ** d** iode（LED）は出力用部品の一つです。 LEDに電流が流れると発光します。 LEDによって光る色が違います。複数の色で光るLEDもあります。
 
-1. The resistor helps protect the LED. Resistors use up some of the energy from the cell, and therefore reduce the amount of energy that reaches the LED. Without the resistor, the LED could burn out, in much the same way as a fuse can burn out in one of your your household appliances.
+1. 抵抗はLEDを保護するのに役立ちます。 抵抗は電池からのエネルギーをいくらか消費するので、LEDに到達するエネルギーの量を減らすのです。 抵抗がないと、家庭用電化製品のヒューズが切れるのと同じように、LEDが焼き切れてしまいます。
 
-1. The switch acts as a break in the circuit. When the switch is open, no current can flow through the LED and the resistor. When the switch is closed, the circuit is complete and current can flow, causing the LED to switch on.
+1. スイッチは回路を遮断する働きをします。 スイッチが開いていると、LEDと抵抗に電流が流れません。 スイッチが閉じると、回路がつながって電流が流れ、LEDがオンになります。
