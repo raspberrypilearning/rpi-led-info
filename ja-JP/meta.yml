@@ -1,0 +1,15 @@
+---
+title: LED回路情報
+hero_image: images/banner.png
+description: 単純な回路の部品とその機能
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2 #possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+curriculum:
+interests:
+technologies:
+site_areas:
+steps:
+  - title: LED回路情報
